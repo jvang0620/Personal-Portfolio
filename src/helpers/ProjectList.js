@@ -1,39 +1,39 @@
 import Proj1 from "../assets/proj1.jpg";
 import Proj2 from "../assets/proj2.jpg";
-import Proj3 from "../assets/proj3.webp";
-import Proj4 from "../assets/proj4.webp";
+import Proj3 from "../assets/proj3.jpg";
+import Proj4 from "../assets/proj4.jpg";
 import Proj5 from "../assets/proj5.jpg";
-import Proj6 from "../assets/proj6.png";
+import Proj6 from "../assets/proj6.jpg";
 
 export const ProjectList = [
   {
-    name: "Dijkstra Algorithm Visualizer",
+    name: "Musicians Meetup",
     image: Proj1,
-    skills: "JavaScript,HTML,CSS",
+    skills: "Node.js, Express.js, EJS, JavaScript, Bootstrap, MVC, MongoDB Atlas, Mongoose",
   },
   {
-    name: "Ecommerce Website",
+    name: "Barhive",
     image: Proj2,
-    skills: "React,Node.js,MongoDB",
+    skills: "AWS S3, Python, Flask, Jinja, PostgreSQL, SQLalchemy, HTML, CSS, JavaScript, Bootstrap",
   },
   {
-    name: "Spotify Clone",
+    name: "Let's Chat",
     image: Proj3,
-    skills: "React,Node.js,MongoDB,SpotifyAPI",
+    skills: "React, Express, Socket.io",
   },
   {
-    name: "Social Media Website",
+    name: "Calendar App",
     image: Proj4,
-    skills: "React,Node.js,MySQL,GraphQL",
+    skills: "JavaScript, CSS, HTML",
   },
   {
-    name: "Dashboard Visualizer",
+    name: "P&J Wedding Rentals",
     image: Proj5,
-    skills: "JavaScript,HTML,CSS",
+    skills: "JavaScript, HTML, CSS, JQuery plugins, JSON",
   },
   {
-    name: "Mobile Game",
+    name: "Tic-Tac-Toe",
     image: Proj6,
-    skills: "React Native,JavaScript,HTML,CSS",
+    skills: "JavaScript, HTML, CSS",
   },
 ];
