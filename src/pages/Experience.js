@@ -11,63 +11,90 @@ function Experience() {
   return (
     <div className="experience">
       <VerticalTimeline lineColor="#3e497a">
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2010 - 2014"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
-          icon={<SchoolIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            My Random High School, Random Place, Random State
-          </h3>
-          <p> High School Diploma</p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
-          date="2014 - 2018"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
-          icon={<SchoolIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            My Cool University, Vancouver, British Columbia
-          </h3>
 
-          <h4 className="vertical-timeline-element-subtitle">
-            Bachelor's Degree
-          </h4>
-
-          <p> Computer Science</p>
-        </VerticalTimelineElement>
+        {/* Centro */}
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2018 - 2020"
+          date="Apr 2006 - Feb 2021"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Back End Engineer - Google
+            Senior Product Inspector Finisher
           </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            San Francisco, CA
-          </h4>
-          <p>Developed the backend infrastructure for 3 projects.</p>
-        </VerticalTimelineElement>
-
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          date="2020 - present"
-          iconStyle={{ background: "#e9d35b", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Full Stack Engineer - Twitch
-          </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            San Francisco, CA
-          </h4>
+          <h5 className="vertical-timeline-element-subtitle">
+            Centro, Inc, Claremont, North Carolina
+          </h5>
           <p>
-            Helped the team launch 2 major features by working both in the front
-            end and back end.
+            • Assembled products in accordance with customer specifications and requests <br />
+            • Maintained efficiency and scrap standards, packaged and prepared products for shipments <br />
+            • Assisted with training new team members <br />
+            • Collaborated with team members to successfully complete tasks <br />
+            • Effectively communicated with supervisors and team members <br />
+          </p>
+        </VerticalTimelineElement>
+
+        {/* CVCC */}
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="Aug 2020 - Dec 2021"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<SchoolIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Catawba Valley Community College, Hickory, North Carolina
+          </h3>
+          <h5 className="vertical-timeline-element-subtitle">
+            Associate of Science - AS
+          </h5>
+          <p> 
+            Overall GPA: 3.907 <br />
+            Honors: Gradudated with High Honors, President's List <br />
+            Achievement: Member of Phi Theta Kappa Honor Society (PTK) </p>
+        </VerticalTimelineElement>
+
+        {/* UNCC */}
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="Jan 2022 -  May 2024"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<SchoolIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Univeristy of North Carolina at Charlotte, Charlotte, North Carolina
+          </h3>
+          <h5 className="vertical-timeline-element-subtitle">
+            Bachelor's of Science - Computer Science, Software Engineering
+          </h5>
+          <p>
+            Overall GPA: 3.79 <br />
+            Honors: Chancellor’s List (Fall 2022), Dean's List (Spring/Fall 2023) <br />
+            Antipicated Gradudation Date: May 2024
+          </p>
+        </VerticalTimelineElement>
+
+        {/* Java Devp Internship */}
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="May 2023 - Aug 2023"
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Java Software Developer Intern
+          </h3>
+          <h5 className="vertical-timeline-element-subtitle">
+            Rack Room Shoes Corporate Office, Charlotte, NC 
+          </h5>
+          <p> 
+            •	Developed internal applications/business tools for the Loss Prevention Department, enhancing operational efficiency <br />
+            •	Crafted responsive designs using <strong>HTML/CSS, JavaScript, jQuery, and Bootstrap </strong> <br />
+            •	Engineered <strong>APIs</strong> to facilitate effective communication between the frontend and Oracle database <br />
+            •	Maintained and optimized backend code, utilizing technologies such as <strong>Java, JSP, Spring, Spring Boot Microservices, Web Socket API, Hibernate</strong>, XML, and Unix, with additional tools including Toad for Oracle (Development Tool), Spring Tool Suite (IDE), Bitbucket (Git) and Apache Tomcat (Server) <br />
+            •	Bolstered features such as additional filter options, mandatory fields, and dynamic data rendering <br />
+            •	Collaborated with the java team to implement changes, address bugs, and elevate overall system functionality <br />
+            •	Joined weekly meetings with project managers and project owners to design and integrate new functionality features <br />
+            •	Worked closely with operations team using <strong>Bamboo (Continuous Integration)</strong>, to ensure seamless implementation <br />
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
