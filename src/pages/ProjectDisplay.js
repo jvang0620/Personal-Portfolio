@@ -8,13 +8,17 @@ function ProjectDisplay() {
   const { id } = useParams();
   const project = ProjectList[id];
   return (
-    <div className="project">
+    <div className="projects">
       <h1> {project.name}</h1>
-      <img src={project.image} alt="project-img" />
+      <a href={project.appURL} target="_blank" title={project.appAnchorTagTitle} rel="noopener noreferrer">
+        <img src={project.image} alt="project-img" />
+      </a>
       <p>
         <b>Skills:</b> {project.skills}
       </p>
+      <a href={project.gitHubUrl} target="_blank" title={project.anchorTagTitle} rel="noopener noreferrer">
       <GitHubIcon />
+      </a>
     </div>
   );
 }
