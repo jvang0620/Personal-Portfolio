@@ -1,5 +1,7 @@
 .projects {
     width: 100%;
+    max-width: 75%; 
+    margin: 0 auto;
     height: auto;
     display: flex;
     justify-content: center;
@@ -15,8 +17,12 @@
   border-radius: 15px; 
   margin-top: 10px; 
 }
-  
 
+.projects p {
+  max-width: 75%; 
+  font-size: large;
+}
+  
 .projects .projectTitle {
   text-align: center;
   color: #3e497a;
