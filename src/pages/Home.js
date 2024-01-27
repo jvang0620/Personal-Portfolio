@@ -8,23 +8,35 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2>Hi, My Name Is Jai Vang</h2>
+        <h2>Hi, I am Jai Vang</h2>
         <div className="prompt"> 
-        <p> 
-          I am a senior at the University of North Carolina at Charlotte where I am majoring in Computer Science with a 
-          concentration in Software Engineering. I am a software developer student with a passion for learning and creating.
-        </p>
-        <a href="https://www.linkedin.com/in/jvang23/" target="_blank" rel="noopener noreferrer">
-          <LinkedInIcon />
-        </a>
-        <a href="mailto:jvang387@gmail.com" target="_blank" rel="noopener noreferrer">
-        <EmailIcon />
-        </a>
-        <a href="https://github.com/jvang0620" target="_blank" rel="noopener noreferrer">
-        <GithubIcon />
-        </a>
+          <p> 
+            I am a senior at the University of North Carolina at Charlotte where I am majoring in Computer Science with a 
+            concentration in Software Engineering. I am a software developer student with a passion for learning and creating.
+          </p>
+          <p>
+            I believe codes are the driving force behind every computerized device and 
+            computing platform on the planet. With that, I want to use my programming 
+            and design knowledge to build software that meets user needs in consumer 
+            and industry-specific applications. 
+          </p>
+          <p>
+            Check out my LinkedIn and GitHub Repository below.
+          </p>
+
+          {/* LinkedIn */}
+          <a href="https://www.linkedin.com/in/jvang23/" target="_blank" title="LinkedIn" rel="noopener noreferrer">
+            <LinkedInIcon />
+          </a>
+          {/* GitHub */}
+          <a href="https://github.com/jvang0620" target="_blank" title="GitHub" rel="noopener noreferrer">
+            <GithubIcon />
+          </a>
+          
         </div>
       </div>
+
+      {/* Tech. Skill Section */}
       <div className="skills"> 
         <h1>Technical Skills</h1>
         <ol className="list">
@@ -68,7 +80,7 @@ function Home() {
             <span>VS Code, Visual Studio 2022, Spring Suite Tool, NetBeans, Intellij, Eclipse, CLion</span>
           </li>
           <li className="item">
-            <h2>API Development/Testing:</h2>
+            <h2>API Development & Testing:</h2>
             <span>Postman</span>
           </li>
         </ol>
