@@ -10,17 +10,19 @@
     margin-top: 200px;
   }
   
+  /* Footer's Icon */
   .socialMedia svg {
     color: white;
-    margin: 20px;
+    margin: 25px;
     font-size: 70px;
     cursor: pointer;
   }
   
+  /* @ 2024 Jai Vang */
   .footer p {
     color: white;
   }
-  
+
   @media only screen and (max-width: 600px) {
     .footer svg {
       font-size: 50px;
