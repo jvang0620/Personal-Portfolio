@@ -9,12 +9,16 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <InstagramIcon />
-        <TwitterIcon />
-        <FacebookIcon />
-        <LinkedInIcon />
+        {/* <InstagramIcon /> */}
+        {/* <TwitterIcon /> */}
+        {/* <FacebookIcon /> */}
+
+        {/*LinkedIn  */}
+        <a href="https://www.linkedin.com/in/jvang23/" target="_blank" title="LinkedIn" rel="noopener noreferrer">
+          <LinkedInIcon />
+        </a>
       </div>
-      <p> &copy; 2024 jv.com</p>
+      <p> &copy; 2024 Jai Vang</p>
     </div>
   );
 }
