@@ -82,7 +82,7 @@
 
 @media only screen and (max-width: 800px) {
   .projectList {
-    width: 100%;
+    width: auto;
   }
   .projectItem {
     width: 300px;
