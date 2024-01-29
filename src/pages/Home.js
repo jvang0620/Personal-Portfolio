@@ -39,49 +39,98 @@ function Home() {
       <div className="skills"> 
         <h1>Technical Skills</h1>
         <ol className="list">
+
+          {/* Front-End */}
           <li className="item">
             <h2> Front-End</h2>
-            <span>
+            <p>
               ReactJS, JavaScript, NPM, Yarn, HTML, CSS, BootStrap
-            </span>
-          </li> <br />
+            </p>
+          </li> 
+          
+          <br />
+
+          {/* Back-End */}
           <li className="item">
             <h2>Back-End</h2>
-            <span>
-              NodeJS, ExpressJS, EJS, Python, Jinja, Java, Java Spring, JPS, C, C++, C# 
-            </span>
-          </li>
+            <p>
+              NodeJS, ExpressJS, EJS, Python, Jinja, Java, Java Spring, JPS, C, C++, C#
+            </p>
+          </li> 
+          
+          <br />
+
+          {/* Database/Mapper */}
           <li className="item">
             <h2>Database/Mapper</h2>
-            <span>
+            <p>
               AWS S3, Oracle, Hibernate, MySQL, MongoDB, MongoDB Atlas, Mongoose, 
               PostgreSQL, SQLAlchemy
-            </span>
+            </p>
           </li>
+
+          <br />
+
+          {/* Softwre Design Pattern */}
           <li className="item">
             <h2>Software Design Pattern:</h2>
-            <span>Model-View-Controller (MVC)</span>
+            <p>
+              Model-View-Controller (MVC)
+            </p>
           </li>
+
+          <br />
+
+          {/* Project Management */}
           <li className="item">
             <h2>Project Management:</h2>
-            <span>Agile, Scrum, Trello</span>
+            <p>
+              Agile, Scrum, Trello
+            </p>
           </li>
+
+          <br />
+
+          {/* UI Desgin Tool */}
           <li className="item">
             <h2>UI Design Tool:</h2>
-            <span>Figma, Uizard</span>
+            <p>
+              Figma, Uizard
+            </p>
           </li>
+
+          <br />
+          
+          {/* Version Control */}
           <li className="item">
             <h2>Version Control:</h2>
-            <span>Github, Bitbucket</span>
+            <p>
+              Github, Bitbucket
+            </p>
           </li>
+
+          <br />
+
+          {/* IDEs */}
           <li className="item">
             <h2>IDEs:</h2>
-            <span>VS Code, Visual Studio 2022, Spring Suite Tool, NetBeans, Intellij, Eclipse, CLion</span>
+            <p>
+              VS Code, Visual Studio 2022, Spring Suite Tool, NetBeans, Intellij, Eclipse, CLion
+            </p>
           </li>
+
+          <br />
+
+          {/* API Devlp/Testing */}
           <li className="item">
             <h2>API Development & Testing:</h2>
-            <span>Postman</span>
+            <p>
+              Postman
+            </p>
           </li>
+
+          <br />
+
         </ol>
       </div>
     </div>
