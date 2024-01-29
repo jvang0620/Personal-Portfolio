@@ -15,13 +15,12 @@ function Home() {
             concentration in Software Engineering. I am a software developer student with a passion for learning and creating.
           </p>
           <p>
-            I believe codes are the driving force behind every computerized device and 
-            computing platform on the planet. With that, I want to use my programming 
-            and design knowledge to build software that meets user needs in consumer 
-            and industry-specific applications. 
+            Explore a collection of diverse projects ranging from full-stack applications to captivating web designs and interactive
+            experiences. Each project reflects not only technical skills but also a commitment to crafting solutions that make a difference.
           </p>
           <p>
-            Check out my LinkedIn and GitHub Repository below.
+            Feel free to navigate through the projects, explore my technical skills, and get to know the person behind the code. 
+            Connect with me on LinkedIn and explore my GitHub repositories below to witness the continuous evolution of my skills and passion.
           </p>
 
           {/* LinkedIn */}
