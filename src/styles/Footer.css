@@ -8,23 +8,33 @@
     flex-direction: column;
     padding-top: 10px;
     margin-top: 200px;
-  }
+}
   
-  /* Footer's Icon */
-  .socialMedia svg {
-    color: white;
-    margin: 25px;
-    font-size: 70px;
-    cursor: pointer;
-  }
-  
-  /* @ 2024 Jai Vang */
-  .footer p {
-    color: white;
-  }
+/* Footer's Icon */
+.socialMedia svg {
+  color: white;
+  margin: 25px;
+  font-size: 70px;
+  cursor: pointer;
+}
 
-  @media only screen and (max-width: 600px) {
-    .footer svg {
-      font-size: 50px;
-    }
+/* @ 2024 Jai Vang */
+.footer p {
+  color: white;
+}
+
+/*  the enclosed CSS styles will only apply when the screen width is 770 pixels or less */
+@media only screen and (max-width: 770px) {
+
+  .footer svg {
+    font-size: 45px;
   }
+}
+
+/*  the enclosed CSS styles will only apply when the screen width is 600 pixels or less */
+@media only screen and (max-width: 600px) {
+  .footer svg {
+    font-size: 30px;
+    margin: 15px;
+  }
+}
