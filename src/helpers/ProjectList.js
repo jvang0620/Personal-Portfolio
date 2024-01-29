@@ -50,7 +50,7 @@ export const ProjectList = [
     name: "P&J Wedding Rentals",
     image: Proj5,
     skills: "JavaScript, HTML, CSS, JQuery plugins, JSON",
-    appURL: "https://dev.ddp0hgzolmkk1.amplifyapp.com/",
+    appURL: "https://dev.d1cmmk1mtrxdw7.amplifyapp.com/",
     appAnchorTagTitle: "P&J Wedding Rentals",
     gitHubUrl: "https://github.com/jvang0620/P_J-Wedding-Rentals",
     anchorTagTitle: "P&J Wedding Rentals GitHub",
