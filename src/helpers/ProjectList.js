@@ -40,7 +40,7 @@ export const ProjectList = [
     name: "Calendar",
     image: Proj4,
     skills: "JavaScript, CSS, HTML",
-    appURL: "https://dev.dqbf8ff1peu9r.amplifyapp.com/",
+    appURL: "https://webpages.charlotte.edu/jvang29/JavaScript-Calendar/index.html",
     appAnchorTagTitle: "Calendar",
     gitHubUrl: "https://github.com/jvang0620/Calendar",
     anchorTagTitle: "Calendar GitHub",
