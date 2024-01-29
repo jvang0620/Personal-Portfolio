@@ -44,7 +44,7 @@ function Home() {
             <span>
               ReactJS, JavaScript, NPM, Yarn, HTML, CSS, BootStrap
             </span>
-          </li>
+          </li> <br />
           <li className="item">
             <h2>Back-End</h2>
             <span>

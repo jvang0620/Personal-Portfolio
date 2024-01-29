@@ -40,7 +40,7 @@
 
 /* Technical Skills */
 .skills {
-  font-size: 20px;
+  font-size: 15px;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -61,14 +61,38 @@
   font-size: 20px;
 }
 
+/*  the enclosed CSS styles will only apply when the screen width is 770 pixels or less */
+@media only screen and (max-width: 770px) {
+
+  .about h2 {
+    font-size: 35px;
+  }
+
+  .about .prompt {
+    margin-top: 15px;
+    font-size: 20px;
+    width: 60%;
+  }
+
+  /* Icons under 'I am a Senior' */
+  .prompt svg {
+    font-size: 30px;
+    margin: 5px;
+    color: white;
+  }
+
+
+}
+
+/*  the enclosed CSS styles will only apply when the screen width is 600 pixels or less */
 @media only screen and (max-width: 600px) {
   .about h2 {
-    font-size: 40px;
+    font-size: 30px;
   }
 
   .about .prompt {
     margin-top: 10px;
-    font-size: 20px;
+    font-size: 15px;
     width: 80%;
   }
 
@@ -79,7 +103,23 @@
     padding: 0;
   }
 
+  .skills h1 {
+    font-size: 25px;
+  }
+
   .skills h2 {
-    font-size: 30px;
+    font-size: 20px;
+  }
+  .list span {
+    font-size: 15px;
+  }
+  .list span ul li{
+    font-size: 15px;
+  }
+  /* Icons under 'I am a Senior' */
+  .prompt svg {
+    font-size: 20px;
+    margin: 5px;
+    color: white;
   }
 }
