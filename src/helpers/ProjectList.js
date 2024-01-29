@@ -56,14 +56,14 @@ export const ProjectList = [
     anchorTagTitle: "P&J Wedding Rentals GitHub",
     projectDescription: "Introducing our Wedding Events Showcase App, a beautifully crafted  application designed to elegantly display a wedding coordinators' events and greenery arrangements. This application serves as a visual portfolio, providing users with a captivating glimpse into the meticulous planning and exquisite floral designs curated by our talented wedding coordinators. The app delivers a user-friendly experience, allowing visitors to explore a gallery of stunning weddings and enchanting greenery setups. Immerse yourself in the world of unforgettable celebrations and inspired floral creations, brought to life through this thoughtfully designed and visually appealing Wedding Events Showcase App. Explore the artistry, creativity, and attention to detail that our wedding coordinators bring to every event, making each celebration a unique and memorable experience."
   },
-  {
-    name: "Tic-Tac-Toe",
-    image: Proj6,
-    skills: "JavaScript, HTML, CSS",
-    appURL: "https://dev.d1kjiaydz1x7jk.amplifyapp.com/",
-    appAnchorTagTitle: "Tic-Tac-Toe",
-    gitHubUrl: "https://github.com/jvang0620/Tic-Tac-Toe",
-    anchorTagTitle: "Tic-Tac-Toe GitHub",
-    projectDescription: ""
-  },
+  // {
+  //   name: "Tic-Tac-Toe",
+  //   image: Proj6,
+  //   skills: "JavaScript, HTML, CSS",
+  //   appURL: "https://dev.d1kjiaydz1x7jk.amplifyapp.com/",
+  //   appAnchorTagTitle: "Tic-Tac-Toe",
+  //   gitHubUrl: "https://github.com/jvang0620/Tic-Tac-Toe",
+  //   anchorTagTitle: "Tic-Tac-Toe GitHub",
+  //   projectDescription: ""
+  // },
 ];
