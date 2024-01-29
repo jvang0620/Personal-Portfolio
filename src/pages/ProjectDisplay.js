@@ -14,16 +14,18 @@ function ProjectDisplay() {
         <img src={project.image} alt="project-img" />
       </a>
       <p>
-        <b>Skills:</b> <br /> {
-        project.skills}
+        <b>Skills:</b> <br /> 
+        {project.skills}
       </p>
-      <p class="">
+      <p>
         <b>Overview:</b> <br /> 
         {project.projectDescription}
       </p>
       <a href={project.gitHubUrl} target="_blank" title={project.anchorTagTitle} rel="noopener noreferrer">
-      <b>Github:</b> <br /> 
-      <GitHubIcon />
+        <p>
+          <b>Github:</b>
+          <GitHubIcon />
+        </p>
       </a>
     </div>
   );
