@@ -29,7 +29,7 @@ Welcome to my project! 🚀 This repository is a culmination of creativity, dedi
 
 Explore a collection of diverse projects ranging from full-stack applications to captivating web designs and interactive experiences. Each project reflects not only technical skills but also a commitment to crafting solutions that make a difference.
 
-Check out my Portfoio [here](https://dev.dv6ptndzz2hn9.amplifyapp.com/projects).
+Check out my personal portfoio at [AWS Amplify](https://dev.dv6ptndzz2hn9.amplifyapp.com/).
 
 #### Journey Through Time
 
