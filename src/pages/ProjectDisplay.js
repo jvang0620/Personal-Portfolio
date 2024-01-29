@@ -10,6 +10,7 @@ function ProjectDisplay() {
   return (
     <div className="projects">
       <h1> {project.name}</h1>
+      <p>Click images to view application</p> <br/>
       <a href={project.appURL} target="_blank" title={project.appAnchorTagTitle} rel="noopener noreferrer">
         <img src={project.image} alt="project-img" />
       </a>

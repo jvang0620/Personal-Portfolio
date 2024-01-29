@@ -8,6 +8,7 @@ function Projects() {
   return (
     <div className="projects">
       <h1> My Personal Projects</h1>
+      <p>Click images to view</p>
       <div className="projectList">
         {ProjectList.map((project, index) => {
           return (
