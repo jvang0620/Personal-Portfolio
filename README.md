@@ -29,7 +29,7 @@ Welcome to my project! 🚀 This repository is a culmination of creativity, dedi
 
 Explore a collection of diverse projects ranging from full-stack applications to captivating web designs and interactive experiences. Each project reflects not only technical skills but also a commitment to crafting solutions that make a difference.
 
-Check out my personal portfoio at [AWS Amplify](https://main.d2kuuep2g1831e.amplifyapp.com/).
+Deployed on AWS Amplify, check out my portfolio [here](https://main.d2kuuep2g1831e.amplifyapp.com/){:target="\_blank"}.
 
 #### Journey Through Time
 
@@ -210,7 +210,7 @@ import { Link, useLocation } from "react-router-dom";
    HTTPS: <pre><code>git clone https://github.com/jvang0620/Portfolio</code></pre>
    SSH: <pre><code>git clone git@github.com:jvang0620/Portfolio</code></pre>
 
-2. If you haven't installed `yarn` to your machine, install it now. Afterward, update `yarn` if needed, and then clear the cache:
+2. If you haven't installed `yarn` on your machine, install it now. Afterward, update `yarn` if needed, and then clear the cache:
 
    ```bash
    npm install -g yarn
@@ -234,7 +234,7 @@ import { Link, useLocation } from "react-router-dom";
   yarn add @material-ui/core @material-ui/icons react-router-dom react-vertical-timeline-component
   ```
 
-4. To run App, type in terminal:
+4. To run the App, type in the terminal:
 
    ```bash
    yarn start
