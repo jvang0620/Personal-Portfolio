@@ -10,23 +10,27 @@ function ProjectDisplay() {
   return (
     <div className="projects">
       <h1> {project.name}</h1>
-      <p>**Select image below to view application**</p> <br/>
+      <p className="small-font">**Select image below to view application**</p> <br/>
+
+      {/* image */}
       <a href={project.appURL} target="_blank" title={project.appAnchorTagTitle} rel="noopener noreferrer">
         <img src={project.image} alt="project-img" />
       </a>
-      <p>
-        <b>Skills:</b> <br /> 
-        {project.skills}
-      </p>
-      <p>
-        <b>Overview:</b> <br /> 
-        {project.projectDescription}
-      </p>
-      <a href={project.gitHubUrl} target="_blank" title={project.anchorTagTitle} rel="noopener noreferrer">
-        <p>
-          <b>Github:</b>
-          <GitHubIcon />
-        </p>
+
+      <br />
+
+      {/* Skills */}
+      <h2>Skills:</h2>
+      <p className="top-margin">{project.skills}</p>
+
+      {/* Overview */}
+      <h2>Overview:</h2>
+      <p className="top-margin">{project.projectDescription}</p>
+
+      {/* GitHub */}
+      <h2>Github:</h2>
+      <a href={project.gitHubUrl} target="_blank" title={project.anchorTagTitle} rel="noopener noreferrer">       
+        <GitHubIcon /> 
       </a>
     </div>
   );

@@ -38,7 +38,7 @@ Dive into the timeline of my experiences, from academic achievements to real-wor
 
 #### Let's Connect
 
-Feel free to navigate through the projects, explore my technical skills, and get to know the person behind the code. Connect with me on LinkedIn and explore my GitHub repositories to witness the continuous evolution of my skills and passion.
+Feel free to navigate through the projects, explore my technical skills, and get to know the person behind the code. Connect with me on [LinkedIn](https://www.linkedin.com/in/jvang23/). and explore my [GitHub](https://github.com/jvang0620/) repositories to witness the continuous evolution of my skills and passion.
 
 Thank you for joining me on this coding adventure. Let's build something amazing together! 🌟
 

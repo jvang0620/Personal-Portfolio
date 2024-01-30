@@ -14,10 +14,25 @@
   
 .projects p {
   color: black;
+  display: flex;
+  justify-content: center;
 }
-  
+
+.projects .small-font {
+  font-size: small;
+  font-style: italic;
+}
+
+.projects h2 {
+  margin-bottom: .5%;
+}
+
+.projects .top-margin {
+  margin-top: 0%;
+}
+
 .projects svg {
-  font-size: 60px;
+  font-size: 45px;
   color: black;
 }
 
@@ -25,13 +40,19 @@
 @media only screen and (max-width: 770px) {
 
   .projects h1 {
+    font-size: 25px;
+  }
+  .projects h2 {
     font-size: 20px;
   }
   .projects p {
     font-size: 15px;
   }
+  .projects .small-font {
+    font-size: small;
+  }
   .projects svg {
-    font-size: 40px;
+    font-size: 35px;
     color: black;
   }
 
@@ -43,8 +64,14 @@
   .projects h1 {
     font-size: 20px;
   }
+  .projects h2 {
+    font-size: 15px;
+  }
   .projects p {
     font-size: 15px;
+  }
+  .projects .small-font {
+    font-size: x-small;
   }
   .projects svg {
     font-size: 25px;
