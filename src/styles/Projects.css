@@ -22,6 +22,11 @@
   max-width: 75%; 
   font-size: large;
 }
+
+.projects .small-font {
+  font-size: small;
+  font-style: italic;
+}
   
 .projects .projectTitle {
   text-align: center;

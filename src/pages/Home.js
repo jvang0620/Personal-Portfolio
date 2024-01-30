@@ -35,6 +35,8 @@ function Home() {
         </div>
       </div>
 
+      <br/><br/><br/>
+
       {/* Tech. Skill Section */}
       <div className="skills"> 
         <h1>Technical Skills</h1>
@@ -44,7 +46,7 @@ function Home() {
           <li className="item">
             <h2> Front-End</h2>
             <p>
-              ReactJS, JavaScript, NPM, Yarn, HTML, CSS, BootStrap
+              React, JavaScript, NPM, Yarn, HTML, CSS, BootStrap
             </p>
           </li> 
           
@@ -62,7 +64,7 @@ function Home() {
 
           {/* Database/Mapper */}
           <li className="item">
-            <h2>Database/Mapper</h2>
+            <h2>Database/ORM</h2>
             <p>
               AWS S3, Oracle, Hibernate, MySQL, MongoDB, MongoDB Atlas, Mongoose, 
               PostgreSQL, SQLAlchemy
@@ -73,7 +75,7 @@ function Home() {
 
           {/* Softwre Design Pattern */}
           <li className="item">
-            <h2>Software Design Pattern:</h2>
+            <h2>Software Design Pattern</h2>
             <p>
               Model-View-Controller (MVC)
             </p>
@@ -83,7 +85,7 @@ function Home() {
 
           {/* Project Management */}
           <li className="item">
-            <h2>Project Management:</h2>
+            <h2>Project Management</h2>
             <p>
               Agile, Scrum, Trello
             </p>
@@ -93,7 +95,7 @@ function Home() {
 
           {/* UI Desgin Tool */}
           <li className="item">
-            <h2>UI Design Tool:</h2>
+            <h2>UI Design Tool</h2>
             <p>
               Figma, Uizard
             </p>
@@ -103,7 +105,7 @@ function Home() {
           
           {/* Version Control */}
           <li className="item">
-            <h2>Version Control:</h2>
+            <h2>Version Control</h2>
             <p>
               Github, Bitbucket
             </p>
@@ -113,7 +115,7 @@ function Home() {
 
           {/* IDEs */}
           <li className="item">
-            <h2>IDEs:</h2>
+            <h2>IDEs</h2>
             <p>
               VS Code, Visual Studio 2022, Spring Suite Tool, NetBeans, Intellij, Eclipse, CLion
             </p>
@@ -123,7 +125,7 @@ function Home() {
 
           {/* API Devlp/Testing */}
           <li className="item">
-            <h2>API Development & Testing:</h2>
+            <h2>API Development & Testing</h2>
             <p>
               Postman
             </p>
