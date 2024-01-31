@@ -39,7 +39,7 @@
 }
 
 .prompt a:hover svg {
-  fill: rgb(67, 67, 219); /* Change the fill color on hover */
+  fill: rgb(67, 67, 219); 
   transition: 0.5s;
 }
 
