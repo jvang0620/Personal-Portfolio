@@ -36,6 +36,16 @@
   color: black;
 }
 
+.projects a img {
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+}
+
+.projects a img:hover {
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
+  transition: 0.3s ease-in;
+  cursor: pointer;
+}
+
  /*  the enclosed CSS styles will only apply when the screen width is 770 pixels or less */
 @media only screen and (max-width: 770px) {
 
