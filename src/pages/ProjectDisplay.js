@@ -19,13 +19,13 @@ function ProjectDisplay() {
 
       <br />
 
-      {/* Skills */}
-      <h2>Skills:</h2>
-      <p className="top-margin">{project.skills}</p>
+      {/* Tech-Stack */}
+      <h2>Tech-Stack:</h2>
+      <p className="top-margin">{project.techStack}</p>
 
       {/* Overview */}
       <h2>Overview:</h2>
-      <p className="top-margin">{project.projectDescription}</p>
+      <p className="top-margin">{project.overview}</p>
 
       {/* GitHub */}
       <h2>Github:</h2>

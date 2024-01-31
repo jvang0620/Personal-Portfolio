@@ -1,0 +1,8 @@
+.projectItem .font-small {
+    font-size: small;
+    font-style: italic;
+}
+
+.projectItem .text-center {
+    max-width: 100%; 
+}
