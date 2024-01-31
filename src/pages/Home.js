@@ -44,7 +44,7 @@ function Home() {
 
           {/* Front-End */}
           <li className="item">
-            <h2> Front-End</h2>
+            <h2>Front-End</h2>
             <p>
               React, JavaScript, NPM, Yarn, HTML, CSS, BootStrap
             </p>
@@ -64,7 +64,7 @@ function Home() {
 
           {/* Database/Mapper */}
           <li className="item">
-            <h2>Database/ORM</h2>
+            <h2>Databases & ORM</h2>
             <p>
               AWS S3, Oracle, Hibernate, MySQL, MongoDB, MongoDB Atlas, Mongoose, 
               PostgreSQL, SQLAlchemy
@@ -85,7 +85,7 @@ function Home() {
 
           {/* Project Management */}
           <li className="item">
-            <h2>Project Management</h2>
+            <h2>Project Management & Tool</h2>
             <p>
               Agile, Scrum, Trello
             </p>
@@ -95,7 +95,7 @@ function Home() {
 
           {/* UI Desgin Tool */}
           <li className="item">
-            <h2>UI Design Tool</h2>
+            <h2>UI/UX Design Tools</h2>
             <p>
               Figma, Uizard
             </p>
@@ -105,7 +105,7 @@ function Home() {
           
           {/* Version Control */}
           <li className="item">
-            <h2>Version Control</h2>
+            <h2>Version Controls</h2>
             <p>
               Github, Bitbucket
             </p>
@@ -128,6 +128,16 @@ function Home() {
             <h2>API Development & Testing</h2>
             <p>
               Postman
+            </p>
+          </li>
+
+          <br />
+
+          {/* Other Programming Lanuages*/}
+          <li className="item">
+            <h2>Low Level Programming Languages & Tool</h2>
+            <p>
+              Assembly (x86), RISC-V Assembly, RISC-V Assembler & Runtime Simulator (RARS 1.6)
             </p>
           </li>
 
