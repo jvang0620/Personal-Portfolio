@@ -38,6 +38,11 @@
   color: white;
 }
 
+.prompt a:hover svg {
+  fill: rgb(67, 67, 219); /* Change the fill color on hover */
+  transition: 0.5s;
+}
+
 /* Technical Skills */
 .skills {
   font-size: 15px;

@@ -28,7 +28,7 @@ function Footer() {
         {/* Email */}
         <a href="mailto:jvang387@gmail.com" target="_blank" title="Email Jai Vang" rel="noopener noreferrer">
             <EmailIcon />
-          </a>
+        </a>
 
       </div>
       <p> &copy; 2024 Jai Vang</p>
