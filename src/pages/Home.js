@@ -37,9 +37,9 @@ function Home() {
 
       <br/><br/><br/>
 
-      {/* Tech. Skill Section */}
+      {/* Technology Proficiency */}
       <div className="skills"> 
-        <h1>Technical Skills</h1>
+        <h1>Technology Proficiency</h1>
         <ol className="list">
 
           {/* Front-End */}
@@ -64,10 +64,19 @@ function Home() {
 
           {/* Database/Mapper */}
           <li className="item">
-            <h2>Databases & ORM</h2>
+            <h2>Cloud Storage, Databases, ORM/ODM</h2>
             <p>
-              AWS S3, Oracle, Hibernate, MySQL, MongoDB, MongoDB Atlas, Mongoose, 
-              PostgreSQL, SQLAlchemy
+              AWS S3, MongoDB Atlas, SQL, Oracle, MySQL, PostgreSQL, MongoDB, Toad for Oracle, Hibernate, SQLAlchemy, Mongoose
+            </p>
+          </li>
+
+          <br />
+
+          {/* Continuous Integration (CI) and Continusous Deployment (CD) */}
+          <li className="item">
+            <h2>Continuous Integration/Deployment (CI/CD)</h2>
+            <p>
+              Bamboo
             </p>
           </li>
 
@@ -127,7 +136,7 @@ function Home() {
           <li className="item">
             <h2>API Development & Testing</h2>
             <p>
-              Postman
+              RESTful API/Routes, Postman
             </p>
           </li>
 
