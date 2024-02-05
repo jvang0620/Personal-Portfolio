@@ -1,15 +1,15 @@
-import Proj1 from "../assets/proj1.jpg";
-import Proj2 from "../assets/proj2.jpg";
-import portfolio_img from "../assets/portfolio.jpg";
-import Proj3 from "../assets/proj3.jpg";
-import Proj4 from "../assets/proj4.jpg";
-import Proj5 from "../assets/proj5.jpg";
-// import Proj6 from "../assets/proj6.jpg";
+import musiciansMeetup_img from "../assets/projectList_imgs/musicianMeetup.jpg";
+import bargive_img from "../assets/projectList_imgs/barhive.jpg";
+import portfolio_img from "../assets/projectList_imgs/portfolio.jpg";
+import letsChat_img from "../assets/projectList_imgs/letsChat.jpg";
+import calendar_img from "../assets/projectList_imgs/calendar.jpg";
+import pjWeddingRental_img from "../assets/projectList_imgs/pjWeddingRentals.jpg";
+// import ticTacToe_img from "../assets/projectList_imgs/ticTacToe.jpg";
 
 export const ProjectList = [
   {
     name: "Musicians Meetup",
-    image: Proj1,
+    image: musiciansMeetup_img,
     techStack: "Node.js, Express.js, EJS, JavaScript, Bootstrap, MVC, MongoDB Atlas, Mongoose",
     appURL: "https://webpages.charlotte.edu/jvang29/Musicians-Meetup/index.html",
     appAnchorTagTitle: "Musicians Meetup",
@@ -20,7 +20,7 @@ export const ProjectList = [
   },
   {
     name: "Barhive",
-    image: Proj2,
+    image: bargive_img,
     techStack: "AWS S3, Python, Flask, Jinja, PostgreSQL, SQLalchemy, HTML, CSS, JavaScript, Bootstrap",
     appURL: "https://barhive.net",
     appAnchorTagTitle: "Barhive",
@@ -42,7 +42,7 @@ export const ProjectList = [
   },
   {
     name: "Let's Chat",
-    image: Proj3,
+    image: letsChat_img,
     techStack: "ReactJS, Express.JS, Socket.io, JavaScript, HTML, CSS",
     appURL: "https://main.d3rd3erfcsol2x.amplifyapp.com/",
     appAnchorTagTitle: "Let's Chat",
@@ -53,7 +53,7 @@ export const ProjectList = [
   },
   {
     name: "Calendar",
-    image: Proj4,
+    image: calendar_img,
     techStack: "JavaScript, CSS, HTML",
     appURL: "https://webpages.charlotte.edu/jvang29/JavaScript-Calendar/index.html",
     appAnchorTagTitle: "Calendar",
@@ -64,7 +64,7 @@ export const ProjectList = [
   },
   {
     name: "P&J Wedding Rentals",
-    image: Proj5,
+    image: pjWeddingRental_img,
     techStack: "JavaScript, HTML, CSS, JQuery plugins, JSON",
     appURL: "https://dev.d1cmmk1mtrxdw7.amplifyapp.com/",
     appAnchorTagTitle: "P&J Wedding Rentals",
@@ -75,7 +75,7 @@ export const ProjectList = [
   },
   // {
   //   name: "Tic-Tac-Toe",
-  //   image: Proj6,
+  //   image: ticTacToe_img,
   //   techStack: "JavaScript, HTML, CSS",
   //   appURL: "https://dev.d1kjiaydz1x7jk.amplifyapp.com/",
   //   appAnchorTagTitle: "Tic-Tac-Toe",

@@ -1,6 +1,6 @@
 # Portfolio App
 
-![Protfolio App Homepage](/imgs/homepage.PNG)
+![Protfolio App Homepage](/src/assets/readme_img/homepage.PNG)
 
 ## Table of Contents
 
