@@ -1,9 +1,10 @@
 import Proj1 from "../assets/proj1.jpg";
 import Proj2 from "../assets/proj2.jpg";
+import portfolio_img from "../assets/portfolio.jpg";
 import Proj3 from "../assets/proj3.jpg";
 import Proj4 from "../assets/proj4.jpg";
 import Proj5 from "../assets/proj5.jpg";
-import Proj6 from "../assets/proj6.jpg";
+// import Proj6 from "../assets/proj6.jpg";
 
 export const ProjectList = [
   {
@@ -15,7 +16,7 @@ export const ProjectList = [
     gitHubUrl: "https://github.com/jvang0620/Musicians-Meetup",
     anchorTagTitle: "Musicians Meetup GitHub",
     miniDescription: "Fullstack MVC Express.js App",
-    overview: "This Fullstack MVC Express.js application serves as a dynamic and engaging social media platform tailored for seamlessly hosting and coordinating both in-person and virtual activities, gatherings, and events. It provides a centralized hub for individuals and communities with shared interests, hobbies, and professions to come together and connect. Whether it's organizing a local meetup, planning a virtual workshop, or coordinating a professional networking event, the platform empowers users to create, discover, and participate in a wide array of activities that resonate with their passions and preferences. With its intuitive interface and robust features, the application fosters a sense of community, making it easier for like-minded individuals to build connections and share meaningful experiences."
+    overview: "his Fullstack MVC Express.js application serves as a dynamic and engaging social media platform tailored for seamlessly hosting and coordinating both in-person and virtual activities, gatherings, and events. It provides a centralized hub for individuals and communities with shared interests, hobbies, and professions to come together and connect. Whether it's organizing a local meetup, planning a virtual workshop, or coordinating a professional networking event, the platform empowers users to create, discover, and participate in a wide array of activities that resonate with their passions and preferences. With its intuitive interface and robust features, the application fosters a sense of community, making it easier for like-minded individuals to build connections and share meaningful experiences."
   },
   {
     name: "Barhive",
@@ -27,6 +28,17 @@ export const ProjectList = [
     anchorTagTitle: "Barhive GitHub",
     miniDescription: "Fullstack Python Flask App",
     overview: "BarHive is a social networking platform for bars and people who love nightlife. It allows users to create profiles, connect with other users, and share posts related to their favorite bars and events. The application provides features such as creating posts, commenting, and liking posts. Users can also follow other users and view their profiles. The application also supports business profiles, which allows bar owners to create profiles for their bars and showcase their business."
+  },
+  {
+    name: "Portfolio",
+    image: portfolio_img,
+    techStack: "React.JS, JavaScript, HTML, CSS",
+    appURL: "https://main.d2kuuep2g1831e.amplifyapp.com/",
+    appAnchorTagTitle: "React Portfolio",
+    gitHubUrl: "https://github.com/jvang0620/Personal-Portfolio",
+    anchorTagTitle: "Portfolio GitHub",
+    miniDescription: "React App",
+    overview: "This application is a culmination of creativity, dedication, and my journey of coding. As a computer science enthusiast and software engineering student, I've poured my passion for learning and creating into every line of code. Explore a collection of diverse projects ranging from full-stack applications to captivating web designs and interactive experiences. Each project reflects not only technical skills but also a commitment to crafting solutions that make a difference. Dive into the timeline of my experiences, from academic achievements to real-world challenges as a software developer intern. This journey encapsulates my growth, from assembling products with precision to crafting intricate software solutions."
   },
   {
     name: "Let's Chat",
