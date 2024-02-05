@@ -29,9 +29,6 @@ Welcome to my project! 🚀 This application is a culmination of creativity, ded
 
 Explore a collection of diverse projects ranging from full-stack applications to captivating web designs and interactive experiences. Each project reflects not only technical skills but also a commitment to crafting solutions that make a difference.
 
-Deployed on AWS Amplify, check out my
-[portfolio](https://main.d2kuuep2g1831e.amplifyapp.com/).
-
 #### Journey Through Time
 
 Dive into the timeline of my experiences, from academic achievements to real-world challenges as a software developer intern. TThis journey encapsulates my growth, from assembling products with precision to crafting intricate software solutions.
