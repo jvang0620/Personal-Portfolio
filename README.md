@@ -70,7 +70,7 @@ In the app, React is utilized to create a dynamic and responsive user interface.
 
 ##### Router and Routes in the App.js:
 
-- The `react-router-dom` library is used for navigation between different pages and handling routing.
+- The `react-router-dom` library is used for navigation between different pages and handling routing..
 - The `<Router>` component is used from `react-router-dom` to wrap the entire application and enable routing functionality.
 - Inside `<Routes>`, several `<Route>` components are defined, each corresponding to a specific route and rendering a specific component (`Home, Projects, ProjectDisplay, Experience`) based on the route path.
 
