@@ -19,7 +19,6 @@
    - [Experiences Components](#experiences-components)
    - [Navbar Components](#navbar-components)
    - [ProjectItem Components](#projectitem-components)
-8. [Getting Started](#getting-started)
 
 #### Project Overview
 
@@ -200,44 +199,3 @@ import { Link, useLocation } from "react-router-dom";
     );
   }
   ```
-
-### Getting Started:
-
-1. Clone the repository to your local machine with one of the following:
-
-   HTTPS: <pre><code>git clone https://github.com/jvang0620/Portfolio</code></pre>
-   SSH: <pre><code>git clone git@github.com:jvang0620/Portfolio</code></pre>
-
-2. If you haven't installed `yarn` on your machine, install it now. Afterward, update `yarn` if needed, and then clear the cache:
-
-   ```bash
-   npm install -g yarn
-   yarn set version latest
-   yarn cache clean
-   ```
-
-3. Install the necessary dependencies in the project root directory:
-
-- **_Note_**:
-
-  - <u>@material-ui/core</u>: This installs the Material-UI library, which is a popular React UI framework that provides pre-built React components following the Material Design guidelines.
-
-  - <u>@material-ui/icons</u>: This package provides a set of Material Design icons that you can use in your React application.
-
-  - <u>react-router-dom</u>: This is the React Router library, which enables navigation and routing in your React applications.
-
-  - <u>react-vertical-timeline-component</u>: This package provides a React component for creating vertical timelines, which can be useful for displaying chronological information in a vertical layout.
-
-  ```bash
-  yarn add @material-ui/core @material-ui/icons react-router-dom react-vertical-timeline-component
-  ```
-
-4. To run the App, type in the terminal:
-
-   ```bash
-   yarn start
-   ```
-
-5. Application will start on http://localhost:3000/
-
-Happy Coding! :)
