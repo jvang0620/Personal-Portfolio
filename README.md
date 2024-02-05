@@ -23,7 +23,7 @@
 
 #### Project Overview
 
-Welcome to my project! 🚀 This repository is a culmination of creativity, dedication, and a journey through the world of code. As a computer science enthusiast and software engineering student, I've poured my passion for learning and creating into every line of code.
+Welcome to my project! 🚀 This application is a culmination of creativity, dedication, and my journey of coding. As a computer science enthusiast and software engineering student, I've poured my passion for learning and creating into every line of code.
 
 #### What's Inside
 
@@ -34,7 +34,7 @@ Deployed on AWS Amplify, check out my
 
 #### Journey Through Time
 
-Dive into the timeline of my experiences, from academic achievements to real-world challenges as a software developer intern. This journey encapsulates my growth, from assembling products with precision to crafting intricate software solutions for a corporate giant.
+Dive into the timeline of my experiences, from academic achievements to real-world challenges as a software developer intern. TThis journey encapsulates my growth, from assembling products with precision to crafting intricate software solutions.
 
 #### Let's Connect
 
