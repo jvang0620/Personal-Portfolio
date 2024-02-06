@@ -60,8 +60,8 @@ export const ProjectList = [
     appAnchorTagTitle: "Eight Queens",
     gitHubUrl: "https://github.com/jvang0620/Eight-Queens-CSharp",
     anchorTagTitle: "Eight Queens GitHub",
-    miniDescription: "C# .Net App",
-    overview: "This terminal program implements a solution to the classic N-Queens problem using a hill climbing algorithm. The Eight-Queens problem involves placing 8 chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. This program was created from the ground up, drawing inspiration from various sources. I have developed three distinct projects utilizing C#/.NET, Java, and Python to showcase my proficiency in these languages."
+    miniDescription: "C#, .Net, Java, Python Apps",
+    overview: "This terminal program implements a solution to the classic Eight-Queens problem using a hill climbing algorithm. The Eight-Queens problem involves placing 8 chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. This program was created from the ground up, drawing inspiration from various sources. I have developed three distinct projects utilizing C#/.NET, Java, and Python to showcase my proficiency in these languages."
   },
   {
     name: "Calendar",
