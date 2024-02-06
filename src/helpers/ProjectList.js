@@ -6,8 +6,7 @@ import letsChat_img from "../assets/projectList_imgs/letsChat.jpg";
 import calendar_img from "../assets/projectList_imgs/calendar.jpg";
 import pjWeddingRental_img from "../assets/projectList_imgs/pjWeddingRentals.jpg";
 import clock_img from "../assets/projectList_imgs/clock.jpg";
-
-// import ticTacToe_img from "../assets/projectList_imgs/ticTacToe.jpg";
+import ticTacToe_img from "../assets/projectList_imgs/ticTacToe.jpg";
 
 export const ProjectList = [
   {
@@ -77,6 +76,17 @@ export const ProjectList = [
     overview: "Introducing our Wedding Events Showcase App, a beautifully crafted  application designed to elegantly display a wedding coordinators' events and greenery arrangements. This application serves as a visual portfolio, providing users with a captivating glimpse into the meticulous planning and exquisite floral designs curated by our talented wedding coordinators. The app delivers a user-friendly experience, allowing visitors to explore a gallery of stunning weddings and enchanting greenery setups. Immerse yourself in the world of unforgettable celebrations and inspired floral creations, brought to life through this thoughtfully designed and visually appealing Wedding Events Showcase App. Explore the artistry, creativity, and attention to detail that our wedding coordinators bring to every event, making each celebration a unique and memorable experience."
   },
   {
+    name: "Tic-Tac-Toe",
+    image: ticTacToe_img,
+    techStack: "JavaScript, HTML, CSS",
+    appURL: "https://webpages.charlotte.edu/jvang29/Tic-Tac-Toe/index.html",
+    appAnchorTagTitle: "Tic-Tac-Toe",
+    gitHubUrl: "https://github.com/jvang0620/Tic-Tac-Toe",
+    anchorTagTitle: "Tic-Tac-Toe GitHub",
+    miniDescription: "Interactive UI/UX App",
+    overview: "Korok Tic-Tac-Toe is a playful rendition of the classic game, infused with the charm of the Korok characters from the beloved Legend of Zelda series. The game provides an engaging and interactive experience, inviting players to enjoy a timeless pastime with a delightful twist. It is not just a game; it's an enchanting journey into the world of the Koroks, where every move brings joy and excitement. Join the adventure and see if you have what it takes to emerge victorious in this whimsical twist on a timeless classic."
+  },
+  {
     name: "Calendar",
     image: calendar_img,
     techStack: "JavaScript, CSS, HTML",
@@ -98,14 +108,5 @@ export const ProjectList = [
     miniDescription: "JavaScript App",
     overview: "Explore the Interactive JavaScript Calendar, a dynamic and engaging project. This calendar not only dynamically adjusts to the current month and year but also highlights holidays and observances, making it both functional and visually appealing. Discover the convenience of tooltips that provide additional information when you hover over highlighted dates. The program will be an ongoing project, and I'll continue to incorporate new elements over time."
   },
-  // {
-  //   name: "Tic-Tac-Toe",
-  //   image: ticTacToe_img,
-  //   techStack: "JavaScript, HTML, CSS",
-  //   appURL: "https://dev.d1kjiaydz1x7jk.amplifyapp.com/",
-  //   appAnchorTagTitle: "Tic-Tac-Toe",
-  //   gitHubUrl: "https://github.com/jvang0620/Tic-Tac-Toe",
-  //   anchorTagTitle: "Tic-Tac-Toe GitHub",
-  //   overview: ""
-  // },
+
 ];
