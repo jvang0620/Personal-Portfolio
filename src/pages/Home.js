@@ -9,9 +9,9 @@ function Home() {
     <div className="home">
       <div className="about">
         <h2>Hi, I am Jai Vang</h2>
-        <div className="prompt"> 
-          <p> 
-            I am a senior at the University of North Carolina at Charlotte where I am majoring in Computer Science with a 
+        <div className="prompt">
+          <p>
+            I am a senior at the University of North Carolina at Charlotte where I am majoring in Computer Science with a
             concentration in Software Engineering. I am a software developer student with a passion for learning and creating.
           </p>
           <p>
@@ -19,7 +19,7 @@ function Home() {
             experiences. Each project reflects not only technical skills but also a commitment to crafting solutions that make a difference.
           </p>
           <p>
-            Feel free to navigate through the projects, explore my technical skills, and get to know the person behind the code. 
+            Feel free to navigate through the projects, explore my technical skills, and get to know the person behind the code.
             Connect with me on LinkedIn and explore my GitHub repositories below to witness the continuous evolution of my skills and passion.
           </p>
 
@@ -31,14 +31,14 @@ function Home() {
           <a href="https://github.com/jvang0620" target="_blank" title="GitHub" rel="noopener noreferrer">
             <GithubIcon />
           </a>
-          
+
         </div>
       </div>
 
-      <br/><br/><br/>
+      <br /><br /><br />
 
       {/* Technology Proficiency */}
-      <div className="skills"> 
+      <div className="skills">
         <h1>Technology Proficiency</h1>
         <ol className="list">
 
@@ -48,18 +48,18 @@ function Home() {
             <p>
               React, JavaScript, NPM, Yarn, HTML, CSS, BootStrap
             </p>
-          </li> 
-          
+          </li>
+
           <br />
 
           {/* Back-End */}
           <li className="item">
             <h2>Back-End</h2>
             <p>
-              .Net, NodeJS, ExpressJS, EJS, Python, Jinja, Java, Java Spring, JPS, C, C++, C#
+              .Net, NodeJS, ExpressJS, EJS, Python, Jinja, Java, Java Spring, Spring Boot Microservices, Web Socket API, JSP, XML, Apache Tomcat, C, C++, C#
             </p>
-          </li> 
-          
+          </li>
+
           <br />
 
           {/* Database/Mapper */}
@@ -111,7 +111,7 @@ function Home() {
           </li>
 
           <br />
-          
+
           {/* Version Control */}
           <li className="item">
             <h2>Version Controls</h2>
