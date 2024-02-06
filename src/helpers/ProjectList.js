@@ -1,6 +1,7 @@
 import musiciansMeetup_img from "../assets/projectList_imgs/musicianMeetup.jpg";
 import bargive_img from "../assets/projectList_imgs/barhive.jpg";
 import portfolio_img from "../assets/projectList_imgs/portfolio.jpg";
+import eightQueens_img from "../assets/projectList_imgs/eightQueens.jpg";
 import letsChat_img from "../assets/projectList_imgs/letsChat.jpg";
 import calendar_img from "../assets/projectList_imgs/calendar.jpg";
 import pjWeddingRental_img from "../assets/projectList_imgs/pjWeddingRentals.jpg";
@@ -16,7 +17,7 @@ export const ProjectList = [
     gitHubUrl: "https://github.com/jvang0620/Musicians-Meetup",
     anchorTagTitle: "Musicians Meetup GitHub",
     miniDescription: "Fullstack MVC Express.js App",
-    overview: "his Fullstack MVC Express.js application serves as a dynamic and engaging social media platform tailored for seamlessly hosting and coordinating both in-person and virtual activities, gatherings, and events. It provides a centralized hub for individuals and communities with shared interests, hobbies, and professions to come together and connect. Whether it's organizing a local meetup, planning a virtual workshop, or coordinating a professional networking event, the platform empowers users to create, discover, and participate in a wide array of activities that resonate with their passions and preferences. With its intuitive interface and robust features, the application fosters a sense of community, making it easier for like-minded individuals to build connections and share meaningful experiences."
+    overview: "This Fullstack MVC Express.js application serves as a dynamic and engaging social media platform tailored for seamlessly hosting and coordinating both in-person and virtual activities, gatherings, and events. It provides a centralized hub for individuals and communities with shared interests, hobbies, and professions to come together and connect. Whether it's organizing a local meetup, planning a virtual workshop, or coordinating a professional networking event, the platform empowers users to create, discover, and participate in a wide array of activities that resonate with their passions and preferences. With its intuitive interface and robust features, the application fosters a sense of community, making it easier for like-minded individuals to build connections and share meaningful experiences."
   },
   {
     name: "Barhive",
@@ -50,6 +51,17 @@ export const ProjectList = [
     anchorTagTitle: "Let's Chat GitHub",
     miniDescription: "React Socket.io App",
     overview: "The Chat App is designed to provide users with an engaging and dynamic platform for real-time conversations. Leveraging state-of-the-art technologies, the application seamlessly unites users in interactive chat rooms, fostering a strong sense of community and facilitating smooth communication. With an emphasis on user experience, the app boasts a user-friendly interface that ensures a seamless and enjoyable chatting experience for individuals of all skill levels."
+  },
+  {
+    name: "Eight Queens",
+    image: eightQueens_img,
+    techStack: "C#, .Net, Java, Python",
+    appURL: "https://github.com/jvang0620/Eight-Queens-CSharp",
+    appAnchorTagTitle: "Eight Queens",
+    gitHubUrl: "https://github.com/jvang0620/Eight-Queens-CSharp",
+    anchorTagTitle: "Eight Queens GitHub",
+    miniDescription: "C# .Net App",
+    overview: "This terminal program implements a solution to the classic N-Queens problem using a hill climbing algorithm. The Eight-Queens problem involves placing 8 chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. This program was created from the ground up, drawing inspiration from various sources. I have developed three distinct projects utilizing C#/.NET, Java, and Python to showcase my proficiency in these languages."
   },
   {
     name: "Calendar",
