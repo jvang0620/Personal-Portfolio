@@ -5,6 +5,8 @@ import eightQueens_img from "../assets/projectList_imgs/eightQueens.jpg";
 import letsChat_img from "../assets/projectList_imgs/letsChat.jpg";
 import calendar_img from "../assets/projectList_imgs/calendar.jpg";
 import pjWeddingRental_img from "../assets/projectList_imgs/pjWeddingRentals.jpg";
+import clock_img from "../assets/projectList_imgs/clock.jpg";
+
 // import ticTacToe_img from "../assets/projectList_imgs/ticTacToe.jpg";
 
 export const ProjectList = [
@@ -64,17 +66,6 @@ export const ProjectList = [
     overview: "This terminal program implements a solution to the classic Eight-Queens problem using a hill climbing algorithm. The Eight-Queens problem involves placing 8 chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. This program was created from the ground up, drawing inspiration from various sources. I have developed three distinct projects utilizing C#/.NET, Java, and Python to showcase my proficiency in these languages."
   },
   {
-    name: "Calendar",
-    image: calendar_img,
-    techStack: "JavaScript, CSS, HTML",
-    appURL: "https://webpages.charlotte.edu/jvang29/JavaScript-Calendar/index.html",
-    appAnchorTagTitle: "Calendar",
-    gitHubUrl: "https://github.com/jvang0620/Calendar",
-    anchorTagTitle: "Calendar GitHub",
-    miniDescription: "JavaScript App",
-    overview: "Explore the Interactive JavaScript Calendar, a dynamic and engaging project. This calendar not only dynamically adjusts to the current month and year but also highlights holidays and observances, making it both functional and visually appealing. Discover the convenience of tooltips that provide additional information when you hover over highlighted dates. The program will be an ongoing project, and I'll continue to incorporate new elements over time."
-  },
-  {
     name: "P&J Wedding Rentals",
     image: pjWeddingRental_img,
     techStack: "JavaScript, HTML, CSS, JQuery plugins, JSON",
@@ -84,6 +75,28 @@ export const ProjectList = [
     anchorTagTitle: "P&J Wedding Rentals GitHub",
     miniDescription: "JavaScript App",
     overview: "Introducing our Wedding Events Showcase App, a beautifully crafted  application designed to elegantly display a wedding coordinators' events and greenery arrangements. This application serves as a visual portfolio, providing users with a captivating glimpse into the meticulous planning and exquisite floral designs curated by our talented wedding coordinators. The app delivers a user-friendly experience, allowing visitors to explore a gallery of stunning weddings and enchanting greenery setups. Immerse yourself in the world of unforgettable celebrations and inspired floral creations, brought to life through this thoughtfully designed and visually appealing Wedding Events Showcase App. Explore the artistry, creativity, and attention to detail that our wedding coordinators bring to every event, making each celebration a unique and memorable experience."
+  },
+  {
+    name: "Calendar",
+    image: calendar_img,
+    techStack: "JavaScript, CSS, HTML",
+    appURL: "https://webpages.charlotte.edu/jvang29/JavaScript-Calendar/index.html",
+    appAnchorTagTitle: "Calendar",
+    gitHubUrl: "https://github.com/jvang0620/Calendar",
+    anchorTagTitle: "Calendar GitHub",
+    miniDescription: "JavaScript App",
+    overview: "This clock app provides a simple yet elegant way to visualize the current time. With its sleek design and smooth animations, it brings the timeless charm of traditional clocks to the digital world"
+  },
+  {
+    name: "Clock",
+    image: clock_img,
+    techStack: "JavaScript, CSS, HTML",
+    appURL: "https://webpages.charlotte.edu/jvang29/Clock/index.html",
+    appAnchorTagTitle: "Clock",
+    gitHubUrl: "https://github.com/jvang0620/Clock",
+    anchorTagTitle: "Clock GitHub",
+    miniDescription: "JavaScript App",
+    overview: "Explore the Interactive JavaScript Calendar, a dynamic and engaging project. This calendar not only dynamically adjusts to the current month and year but also highlights holidays and observances, making it both functional and visually appealing. Discover the convenience of tooltips that provide additional information when you hover over highlighted dates. The program will be an ongoing project, and I'll continue to incorporate new elements over time."
   },
   // {
   //   name: "Tic-Tac-Toe",
