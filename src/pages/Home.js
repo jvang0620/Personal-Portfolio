@@ -46,7 +46,7 @@ function Home() {
           <li className="item">
             <h2>Front-End</h2>
             <p>
-              React, JavaScript, NPM, Yarn, HTML, CSS, BootStrap
+              React, .Net, JavaScript, NPM, Yarn, HTML, CSS, BootStrap
             </p>
           </li> 
           
@@ -66,7 +66,7 @@ function Home() {
           <li className="item">
             <h2>Cloud Storage, Databases, ORM/ODM</h2>
             <p>
-              AWS S3, MongoDB Atlas, SQL, Oracle, MySQL, PostgreSQL, MongoDB, Toad for Oracle, Hibernate, SQLAlchemy, Mongoose
+              AWS S3, MongoDB Atlas, SQL, Oracle, MySQL, PostgreSQL, MongoDB, Toad for Oracle, CSV, Hibernate, SQLAlchemy, Mongoose
             </p>
           </li>
 
