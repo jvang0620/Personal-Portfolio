@@ -46,7 +46,7 @@ function Home() {
           <li className="item">
             <h2>Front-End</h2>
             <p>
-              React, .Net, JavaScript, NPM, Yarn, HTML, CSS, BootStrap
+              React, JavaScript, NPM, Yarn, HTML, CSS, BootStrap
             </p>
           </li> 
           
@@ -56,7 +56,7 @@ function Home() {
           <li className="item">
             <h2>Back-End</h2>
             <p>
-              NodeJS, ExpressJS, EJS, Python, Jinja, Java, Java Spring, JPS, C, C++, C#
+              .Net, NodeJS, ExpressJS, EJS, Python, Jinja, Java, Java Spring, JPS, C, C++, C#
             </p>
           </li> 
           
