@@ -46,7 +46,7 @@ function Home() {
           <li className="item">
             <h2>Front-End</h2>
             <p>
-              React, JavaScript, NPM, Yarn, HTML, CSS, BootStrap
+              React, JavaScript, TypeScript, JSX, NPM, Yarn, HTML, CSS, BootStrap, Vite
             </p>
           </li>
 
