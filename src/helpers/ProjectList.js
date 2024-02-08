@@ -1,5 +1,6 @@
 import musiciansMeetup_img from "../assets/projectList_imgs/musicianMeetup.jpg";
 import bargive_img from "../assets/projectList_imgs/barhive.jpg";
+import movieRating_img from "../assets/projectList_imgs/movingRating.jpg";
 import portfolio_img from "../assets/projectList_imgs/portfolio.jpg";
 import eightQueens_img from "../assets/projectList_imgs/eightQueens.jpg";
 import letsChat_img from "../assets/projectList_imgs/letsChat.jpg";
@@ -30,6 +31,17 @@ export const ProjectList = [
     anchorTagTitle: "Barhive GitHub",
     miniDescription: "Fullstack Python Flask App",
     overview: "BarHive is a social networking platform for bars and people who love nightlife. It allows users to create profiles, connect with other users, and share posts related to their favorite bars and events. The application provides features such as creating posts, commenting, and liking posts. Users can also follow other users and view their profiles. The application also supports business profiles, which allows bar owners to create profiles for their bars and showcase their business."
+  },
+  {
+    name: "Moving Rating",
+    image: movieRating_img,
+    techStack: "Vite, React, TypeScript, JavaScript, CSS, HTML ",
+    appURL: "https://dev.d2so2aiqxejyq.amplifyapp.com/",
+    appAnchorTagTitle: "Vite React TypeScript App",
+    gitHubUrl: "https://github.com/jvang0620/Movie-Rating",
+    anchorTagTitle: "Moving Rating GitHub",
+    miniDescription: "Vite React TypeScript App",
+    overview: "The Movie Rating App is a comprehensive web application that empowers users to discover and rate their favorite movies and TV shows. Built with a seamless integration with The Movie Database (TMDB) API, the app provides users with up-to-date information on an extensive library of titles, including current releases, popular picks, and timeless classics."
   },
   {
     name: "Portfolio",
