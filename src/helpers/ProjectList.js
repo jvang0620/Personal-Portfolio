@@ -80,7 +80,7 @@ export const ProjectList = [
   {
     name: "Digital Melodies",
     image: digital_melodies_img,
-    techStack: "Python",
+    techStack: "Python, pydub, simepleaudio, io, time, sys, argparse, os",
     appURL: "https://github.com/jvang0620/Digital-Melodies",
     appAnchorTagTitle: "Digital Melodies",
     gitHubUrl: "https://github.com/jvang0620/Digital-Melodies",
