@@ -3,6 +3,7 @@ import bargive_img from "../assets/projectList_imgs/barhive.jpg";
 import movieRating_img from "../assets/projectList_imgs/movingRating.jpg";
 import portfolio_img from "../assets/projectList_imgs/portfolio.jpg";
 import eightQueens_img from "../assets/projectList_imgs/eightQueens.jpg";
+import digital_melodies_img from "../assets/projectList_imgs/digital-music.jpg";
 import letsChat_img from "../assets/projectList_imgs/letsChat.jpg";
 import calendar_img from "../assets/projectList_imgs/calendar.jpg";
 import pjWeddingRental_img from "../assets/projectList_imgs/pjWeddingRentals.jpg";
@@ -75,6 +76,17 @@ export const ProjectList = [
     anchorTagTitle: "Eight Queens GitHub",
     miniDescription: "C#, .Net, Java, Python Apps",
     overview: "This terminal program implements a solution to the classic Eight-Queens problem using a hill climbing algorithm. The Eight-Queens problem involves placing 8 chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. This program was created from the ground up, drawing inspiration from various sources. I have developed three distinct projects utilizing C#/.NET, Java, and Python to showcase my proficiency in these languages."
+  },
+  {
+    name: "Digital Melodies",
+    image: digital_melodies_img,
+    techStack: "Python",
+    appURL: "https://github.com/jvang0620/Digital-Melodies",
+    appAnchorTagTitle: "Digital Melodies",
+    gitHubUrl: "https://github.com/jvang0620/Digital-Melodies",
+    anchorTagTitle: "Digital Melodies GitHub",
+    miniDescription: "Python App",
+    overview: "Digital Melodies into the fascinating realm of converting binary patterns into musical compositions. By extracting bytes from a binary file, we assign each byte to a specific musical note within the range of C0 to B8. Carefully sequenced, these mapped notes form an original piece of music inspired by the structural intricacies of the binary data. Our script orchestrates these notes into captivating melodies, breathing life into the data through the language of music."
   },
   {
     name: "P&J Wedding Rentals",
