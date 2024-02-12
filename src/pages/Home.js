@@ -106,7 +106,7 @@ function Home() {
           <li className="item">
             <h2>UI/UX Design Tools</h2>
             <p>
-              Figma, Uizard
+              Figma, Uizard, Wireframe
             </p>
           </li>
 
