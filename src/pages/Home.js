@@ -39,7 +39,7 @@ function Home() {
 
       {/* Technology Proficiency */}
       <div className="skills">
-        <h1>Technology Proficiency</h1>
+        <h1>Technology Stack</h1>
         <ol className="list">
 
           {/* Front-End */}
@@ -57,6 +57,26 @@ function Home() {
             <h2>Back-End</h2>
             <p>
               .Net, NodeJS, ExpressJS, EJS, Python, Jinja, Java, Java Spring, Spring Boot Microservices, Web Socket API, JSP, XML, Apache Tomcat, C, C++, C#
+            </p>
+          </li>
+
+          <br />
+
+          {/* Other Programming Lanuages*/}
+          <li className="item">
+            <h2>Low Level Programming Languages & Tool</h2>
+            <p>
+              Assembly (x86), RISC-V Assembly, RISC-V Assembler & Runtime Simulator (RARS 1.6)
+            </p>
+          </li>
+
+          <br />
+
+          {/* API Devlp/Testing */}
+          <li className="item">
+            <h2>API Development & Testing</h2>
+            <p>
+              RESTful API/Routes, Postman
             </p>
           </li>
 
@@ -112,6 +132,16 @@ function Home() {
 
           <br />
 
+          {/* Diagramming/Flowcharting Tools */}
+          <li className="item">
+            <h2>Diagramming/Flowcharting Tools</h2>
+            <p>
+              Lucidchart, Draw.io
+            </p>
+          </li>
+
+          <br />
+
           {/* Version Control */}
           <li className="item">
             <h2>Version Controls</h2>
@@ -131,27 +161,7 @@ function Home() {
           </li>
 
           <br />
-
-          {/* API Devlp/Testing */}
-          <li className="item">
-            <h2>API Development & Testing</h2>
-            <p>
-              RESTful API/Routes, Postman
-            </p>
-          </li>
-
-          <br />
-
-          {/* Other Programming Lanuages*/}
-          <li className="item">
-            <h2>Low Level Programming Languages & Tool</h2>
-            <p>
-              Assembly (x86), RISC-V Assembly, RISC-V Assembler & Runtime Simulator (RARS 1.6)
-            </p>
-          </li>
-
-          <br />
-
+        
         </ol>
       </div>
     </div>
