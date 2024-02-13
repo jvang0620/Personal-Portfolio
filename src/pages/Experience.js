@@ -52,12 +52,12 @@ function Experience() {
           </h5>
           <p>
             {/* GPA */}
-            <u>Overall GPA</u>: <b>3.79</b>
+            <u>Overall GPA</u>: <b>3.80</b>
             
             <br />
 
             {/* Honors */}
-            <u>Honors</u>: Chancellor’s List (Fall 2022), Dean's List (Fall 2023) 
+            <u>Honors</u>: <b>Chancellor’s List (Fall 2023)</b>, Dean's List (Spring 2023) 
             
             <br />
 
