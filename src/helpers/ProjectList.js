@@ -4,6 +4,7 @@ import movieRating_img from "../assets/projectList_imgs/movingRating.jpg";
 import portfolio_img from "../assets/projectList_imgs/portfolio.jpg";
 import eightQueens_img from "../assets/projectList_imgs/eightQueens.jpg";
 import digital_melodies_img from "../assets/projectList_imgs/digital-music.jpg";
+import breadth_first_search_img from "../assets/projectList_imgs/breadth-first-search.jpg";
 import letsChat_img from "../assets/projectList_imgs/letsChat.jpg";
 import calendar_img from "../assets/projectList_imgs/calendar.jpg";
 import pjWeddingRental_img from "../assets/projectList_imgs/pjWeddingRentals.jpg";
@@ -87,6 +88,17 @@ export const ProjectList = [
     anchorTagTitle: "Digital Melodies GitHub",
     miniDescription: "Python App",
     overview: "Digital Melodies into the fascinating realm of converting binary patterns into musical compositions. By extracting bytes from a binary file, we assign each byte to a specific musical note within the range of C0 to B8. Carefully sequenced, these mapped notes form an original piece of music inspired by the structural intricacies of the binary data. Our script orchestrates these notes into captivating melodies, breathing life into the data through the language of music."
+  },
+  {
+    name: "Breadth-First Search",
+    image: breadth_first_search_img,
+    techStack: "Python, deque",
+    appURL: "https://github.com/jvang0620/Breadth-First-Search",
+    appAnchorTagTitle: "Breadth-First Search",
+    gitHubUrl: "https://github.com/jvang0620/Breadth-First-Search",
+    anchorTagTitle: "Breadth-First Search GitHub",
+    miniDescription: "Python App",
+    overview: "This Python program implements a binary search tree with a breadth-first search algorithm to find the shortest path between two nodes. Users can specify the number of nodes in the tree, the number to search for, and the starting and ending points of the search. The program generates a random tree based on the user's input, and each time the program restarts, the location of the specified node is randomly determined. It then finds the shortest path from the starting point to the ending point while passing through the specified number."
   },
   {
     name: "P&J Wedding Rentals",
