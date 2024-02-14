@@ -8,6 +8,7 @@ import breadth_first_search_img from "../assets/projectList_imgs/breadth-first-s
 import letsChat_img from "../assets/projectList_imgs/letsChat.jpg";
 import calendar_img from "../assets/projectList_imgs/calendar.jpg";
 import pjWeddingRental_img from "../assets/projectList_imgs/pjWeddingRentals.jpg";
+import pokemon_paper_rock_scissors_img from "../assets/projectList_imgs/pokemon-paper-rock-scissors.jpg";
 import clock_img from "../assets/projectList_imgs/clock.jpg";
 import ticTacToe_img from "../assets/projectList_imgs/ticTacToe.jpg";
 
@@ -110,6 +111,17 @@ export const ProjectList = [
     anchorTagTitle: "P&J Wedding Rentals GitHub",
     miniDescription: "JavaScript App",
     overview: "Introducing our Wedding Events Showcase App, a beautifully crafted  application designed to elegantly display a wedding coordinators' events and greenery arrangements. This application serves as a visual portfolio, providing users with a captivating glimpse into the meticulous planning and exquisite floral designs curated by our talented wedding coordinators. The app delivers a user-friendly experience, allowing visitors to explore a gallery of stunning weddings and enchanting greenery setups. Immerse yourself in the world of unforgettable celebrations and inspired floral creations, brought to life through this thoughtfully designed and visually appealing Wedding Events Showcase App. Explore the artistry, creativity, and attention to detail that our wedding coordinators bring to every event, making each celebration a unique and memorable experience."
+  },
+  {
+    name: "Paper Rock Scissors",
+    image: pokemon_paper_rock_scissors_img,
+    techStack: "JavaScript, HTML, CSS",
+    appURL: "",
+    appAnchorTagTitle: "Pokemon Paper Rock Scissors",
+    gitHubUrl: "",
+    anchorTagTitle: "Pokemon Paper Rock Scissors GitHub",
+    miniDescription: "JavaScript App",
+    overview: "Coming out soon!!"
   },
   {
     name: "Tic-Tac-Toe",
