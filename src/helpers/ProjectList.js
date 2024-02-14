@@ -87,7 +87,7 @@ export const ProjectList = [
     gitHubUrl: "https://github.com/jvang0620/Digital-Melodies",
     anchorTagTitle: "Digital Melodies GitHub",
     miniDescription: "Python App",
-    overview: "Digital Melodies into the fascinating realm of converting binary patterns into musical compositions. By extracting bytes from a binary file, we assign each byte to a specific musical note within the range of C0 to B8. Carefully sequenced, these mapped notes form an original piece of music inspired by the structural intricacies of the binary data. Our script orchestrates these notes into captivating melodies, breathing life into the data through the language of music."
+    overview: "Drive into the fascinating realm of converting binary patterns into musical compositions. By extracting bytes from a binary file, we assign each byte to a specific musical note within the range of C0 to B8. Carefully sequenced, these mapped notes form an original piece of music inspired by the structural intricacies of the binary data. Our script orchestrates these notes into captivating melodies, breathing life into the data through the language of music."
   },
   {
     name: "Breadth-First Search",
