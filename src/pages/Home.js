@@ -114,9 +114,9 @@ function Home() {
 
           {/* Project Management */}
           <li className="item">
-            <h2>Project Management & Tool</h2>
+            <h2>Project Management, Software Development & Tool</h2>
             <p>
-              Agile, Scrum, Trello
+              Software Development Life Cycle (SDLC), Agile, Scrum, Trello
             </p>
           </li>
 
