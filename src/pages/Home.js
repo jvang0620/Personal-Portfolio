@@ -116,7 +116,7 @@ function Home() {
           <li className="item">
             <h2>Project Management, Software Development & Tool</h2>
             <p>
-              Software Development Life Cycle (SDLC), Agile, Scrum, Trello
+              Software Development Life Cycle (SDLC), Agile, Scrum, Trello, Adobe Work Front
             </p>
           </li>
 
