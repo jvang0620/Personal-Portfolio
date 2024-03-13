@@ -152,12 +152,12 @@ export const ProjectList = [
     name: "Paper Rock Scissors",
     image: pokemon_paper_rock_scissors_img,
     techStack: "JavaScript, HTML, CSS",
-    appURL: "",
+    appURL: "https://webpages.charlotte.edu/jvang29/Pokemon-Paper-Rock-Scissors/index.html",
     appAnchorTagTitle: "Pokemon Paper Rock Scissors",
-    gitHubUrl: "",
+    gitHubUrl: "https://github.com/jvang0620/Pokemon-Paper-Rock-Scissors",
     anchorTagTitle: "Pokemon Paper Rock Scissors GitHub",
     miniDescription: "JavaScript App",
-    overview: "Coming out soon!!"
+    overview: "In 'Pokemon Rock Paper Scissors,' players engage in a strategic battle reminiscent of the classic game with a thrilling twist inspired by the iconic Pokemon universe. Choose your Pokemon avatar from the selections. Bulbasaur, Geodude, and Scyther will represent a different element - Paper, Rock, or Scissors. Pit your chosen Pokemon against your opponent's (Team Rocket) in an intense showdown where strategy and quick thinking are key. Will you emerge victorious, harnessing the strengths of your chosen Pokemon, or will you fall to the cunning tactics of your rival? Test your skills against the computer in this exciting adaptation of a beloved childhood game. First to win 5 matches is the winner. Get ready to embark on a journey filled with excitement, surprises, and the thrill of Pokemon battles in 'Pokemon Rock Paper Scissors'! May the best Pokemon trainer prevail!"
   },
   {
     name: "Tic-Tac-Toe",
