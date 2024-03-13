@@ -9,6 +9,7 @@ import GUI_img from "../assets/projectList_imgs/GUI.jpg";
 import letsChat_img from "../assets/projectList_imgs/letsChat.jpg";
 import movieRating_img from "../assets/projectList_imgs/movingRating.jpg";
 import musiciansMeetup_img from "../assets/projectList_imgs/musicianMeetup.jpg";
+import ninerRate_img from "../assets/projectList_imgs/niner-rate.jpg";
 import pjWeddingRental_img from "../assets/projectList_imgs/pjWeddingRentals.jpg";
 import pokemon_paper_rock_scissors_img from "../assets/projectList_imgs/pokemon-paper-rock-scissors.jpg";
 import portfolio_img from "../assets/projectList_imgs/portfolio.jpg";
@@ -25,6 +26,17 @@ export const ProjectList = [
     anchorTagTitle: "Musicians Meetup GitHub",
     miniDescription: "Fullstack MVC Express.js App",
     overview: "This Fullstack MVC Express.js application serves as a dynamic and engaging social media platform tailored for seamlessly hosting and coordinating both in-person and virtual activities, gatherings, and events. It provides a centralized hub for individuals and communities with shared interests, hobbies, and professions to come together and connect. Whether it's organizing a local meetup, planning a virtual workshop, or coordinating a professional networking event, the platform empowers users to create, discover, and participate in a wide array of activities that resonate with their passions and preferences. With its intuitive interface and robust features, the application fosters a sense of community, making it easier for like-minded individuals to build connections and share meaningful experiences."
+  },
+  {
+    name: "Niner-Rate",
+    image: ninerRate_img,
+    techStack: "Next.js, Node.js, React, TypeScript, Tailwind CSS, MongoDB Atlas, Mongoose",
+    appURL: "https://github.com/jvang0620/Niner-Rate-V2",
+    appAnchorTagTitle: "Niner-Rate",
+    gitHubUrl: "https://github.com/jvang0620/Niner-Rate-V2",
+    anchorTagTitle: "Niner-Rate GitHub",
+    miniDescription: "Fullstack Next.js React App",
+    overview: "This Fullstack Next.js React Application serves as a sophisticated course and professor rating system designed specifically for University of North Carolina at Charlotte students. With a primary goal of empowering students with insightful information, the platform allows users to rate courses and instructors based on various criteria. Students can provide detailed feedback on the tech stack employed in courses, course materials, teaching methodologies, and class structures. By facilitating transparency in teaching styles, the application equips students with essential knowledge to navigate their academic journey effectively and prepare for their professional careers. It aims to mitigate the common issue of students enrolling in courses without a clear understanding of what to expect, subsequently avoiding potential regrets. Through the app, students can create, modify, and delete their reviews as needed, ensuring that their feedback remains relevant and up-to-date. Additionally, the platform offers a comprehensive overview of ratings for courses offered by the College of Computing and Informatics (CCI), providing students with valuable insights into the educational landscape within their academic domain. Ultimately, this application serves as a valuable resource for students seeking to make informed decisions and optimize their learning experiences."
   },
   {
     name: "Barhive",
