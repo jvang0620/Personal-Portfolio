@@ -1,3 +1,4 @@
+import a_star from "../assets/projectList_imgs/a_star.jpg";
 import musiciansMeetup_img from "../assets/projectList_imgs/musicianMeetup.jpg";
 import bargive_img from "../assets/projectList_imgs/barhive.jpg";
 import movieRating_img from "../assets/projectList_imgs/movingRating.jpg";
@@ -78,6 +79,17 @@ export const ProjectList = [
     anchorTagTitle: "Eight Queens GitHub",
     miniDescription: "C#, .Net, Java, Python Apps",
     overview: "This terminal program implements a solution to the classic Eight-Queens problem using a hill climbing algorithm. The Eight-Queens problem involves placing 8 chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. This program was created from the ground up, drawing inspiration from various sources. I have developed three distinct projects utilizing C#/.NET, Java, and Python to showcase my proficiency in these languages."
+  },
+  {
+    name: "A-Star Pathfinding",
+    image: a_star,
+    techStack: "Java",
+    appURL: "https://github.com/jvang0620/A-Star-Pathfinding-Visualizer",
+    appAnchorTagTitle: "A-Star Pathfinding",
+    gitHubUrl: "https://github.com/jvang0620/A-Star-Pathfinding-Visualizer",
+    anchorTagTitle: "A-Star Pathfinding GitHub",
+    miniDescription: "Java App",
+    overview: "This Java application provides a pathfinding tool based on the A\* algorithm, allowing users to find the shortest path between two points on a grid. The app prompts users to input coordinates for the starting and goal nodes within a 15x15 grid, ensuring the chosen coordinates are within bounds and not obstructed by obstacles. Upon receiving user input, the app employs the A\* algorithm to search for the optimal path, considering obstacles and the grid's dimensions. If a viable path exists, the app displays the coordinates of each node along the path and visualizes the agent's movement from the starting node to the goal node on the grid. This app serves as a practical tool for understanding and implementing pathfinding algorithms, offering a hands-on approach to visualize and comprehend their functionality. Whether for educational purposes or practical applications, users can utilize this tool to navigate and analyze pathfinding scenarios within a customizable grid environment."
   },
   {
     name: "Digital Melodies",
