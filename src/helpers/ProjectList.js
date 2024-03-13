@@ -1,16 +1,17 @@
 import a_star from "../assets/projectList_imgs/a_star.jpg";
-import musiciansMeetup_img from "../assets/projectList_imgs/musicianMeetup.jpg";
 import bargive_img from "../assets/projectList_imgs/barhive.jpg";
-import movieRating_img from "../assets/projectList_imgs/movingRating.jpg";
-import portfolio_img from "../assets/projectList_imgs/portfolio.jpg";
-import eightQueens_img from "../assets/projectList_imgs/eightQueens.jpg";
-import digital_melodies_img from "../assets/projectList_imgs/digital-music.jpg";
 import breadth_first_search_img from "../assets/projectList_imgs/breadth-first-search.jpg";
-import letsChat_img from "../assets/projectList_imgs/letsChat.jpg";
 import calendar_img from "../assets/projectList_imgs/calendar.jpg";
+import clock_img from "../assets/projectList_imgs/clock.jpg";
+import digital_melodies_img from "../assets/projectList_imgs/digital-music.jpg";
+import eightQueens_img from "../assets/projectList_imgs/eightQueens.jpg";
+import GUI_img from "../assets/projectList_imgs/GUI.jpg";
+import letsChat_img from "../assets/projectList_imgs/letsChat.jpg";
+import movieRating_img from "../assets/projectList_imgs/movingRating.jpg";
+import musiciansMeetup_img from "../assets/projectList_imgs/musicianMeetup.jpg";
 import pjWeddingRental_img from "../assets/projectList_imgs/pjWeddingRentals.jpg";
 import pokemon_paper_rock_scissors_img from "../assets/projectList_imgs/pokemon-paper-rock-scissors.jpg";
-import clock_img from "../assets/projectList_imgs/clock.jpg";
+import portfolio_img from "../assets/projectList_imgs/portfolio.jpg";
 import ticTacToe_img from "../assets/projectList_imgs/ticTacToe.jpg";
 
 export const ProjectList = [
@@ -79,6 +80,17 @@ export const ProjectList = [
     anchorTagTitle: "Eight Queens GitHub",
     miniDescription: "C#, .Net, Java, Python Apps",
     overview: "This terminal program implements a solution to the classic Eight-Queens problem using a hill climbing algorithm. The Eight-Queens problem involves placing 8 chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. This program was created from the ground up, drawing inspiration from various sources. I have developed three distinct projects utilizing C#/.NET, Java, and Python to showcase my proficiency in these languages."
+  },
+  {
+    name: "Wedding Inventory App",
+    image: GUI_img,
+    techStack: "Java, Swing",
+    appURL: "https://github.com/jvang0620/Wedding-Decor-Inventory-GUI",
+    appAnchorTagTitle: "Wedding Inventory App",
+    gitHubUrl: "https://github.com/jvang0620/Wedding-Decor-Inventory-GUI",
+    anchorTagTitle: "Wedding Inventory App GitHub",
+    miniDescription: "Java Swing App",
+    overview: "Welcome to our Wedding Decor Inventory Management System! This application is designed to streamline the process of managing inventory for wedding planners and decorators. With features tailored to the unique needs of wedding professionals, our system offers a comprehensive solution for organizing, tracking, and reporting on wedding decor items. With a focus on simplicity and functionality, our system facilitates the smooth handling of inventory tasks, allowing users to effortlessly input new items, track existing ones, and make necessary modifications as needed. From elegant vases to exquisite table runners and lush greenery, our system accommodates a variety of decor types to suit every wedding theme and style. Our Wedding Decor Inventory Management System offers a seamless experience with its intuitive interface, enabling users of all technical backgrounds to effortlessly navigate through features like viewing, creating, and updating inventory items. Easily add, modify, or delete items to maintain an accurate inventory, with the option to permanently delete or restore items as needed. Confirmation prompts add an extra layer of security, while detailed CSV reports provide insights into inventory data, supported by persistent storage for seamless continuity across sessions."
   },
   {
     name: "A-Star Pathfinding",
