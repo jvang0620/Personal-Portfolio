@@ -31,7 +31,7 @@ export const ProjectList = [
     name: "Niner-Rate",
     image: ninerRate_img,
     techStack: "Next.js, Node.js, React, TypeScript, Tailwind CSS, MongoDB Atlas, Mongoose",
-    appURL: "https://github.com/jvang0620/Niner-Rate-V2",
+    appURL: "https://main.d31z7griq24els.amplifyapp.com/",
     appAnchorTagTitle: "Niner-Rate",
     gitHubUrl: "https://github.com/jvang0620/Niner-Rate-V2",
     anchorTagTitle: "Niner-Rate GitHub",
