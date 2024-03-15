@@ -141,7 +141,7 @@ export const ProjectList = [
     name: "P&J Wedding Rentals",
     image: pjWeddingRental_img,
     techStack: "JavaScript, HTML, CSS, JQuery plugins, JSON",
-    appURL: "https://dev.d1cmmk1mtrxdw7.amplifyapp.com/",
+    appURL: "https://webpages.charlotte.edu/jvang29/PJ-Rentals/index.html",
     appAnchorTagTitle: "P&J Wedding Rentals",
     gitHubUrl: "https://github.com/jvang0620/P_J-Wedding-Rentals",
     anchorTagTitle: "P&J Wedding Rentals GitHub",
